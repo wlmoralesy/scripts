@@ -13,7 +13,6 @@ Example
  <div id="wrapper">
 	<a class="campaign left" href="" style="display: block; background: none repeat scroll 0% 0% rgba(0, 255, 0, 0.5); height: 200px; position: absolute; width: 100px; left: 415px;"></a>
 	<a class="campaign right" href=""></a>
-
 -------left
 	<a class="campaign left" href="" style="display: block; background: none repeat scroll 0% 0% rgba(0, 255, 0, 0.5); height: 100%;left:-500px;position:absolute;width:50%;"></a>
 	<a class="campaign right" href=""></a>
