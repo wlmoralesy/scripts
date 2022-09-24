@@ -2,6 +2,7 @@ scripts
 =======
 
 Example
+ver commit
 
 --Channel--
 < div id="wraper">
